@@ -1,0 +1,18 @@
+#greenphone {
+    fill: #00ff11; 
+  }
+#bluephone {
+    fill: #0000ff; 
+  }
+#redphone {
+    fill: #ff1111; 
+}
+.phone:hover {
+fill: #11223c; 
+}
+svg {
+    margin: 5%;
+}
+body {
+    font-family: 'Sofia';font-size: 22px;
+}
